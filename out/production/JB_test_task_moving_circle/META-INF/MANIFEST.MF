@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: JB_test_task_moving_circle
+Main-Class: ru.ifmo.mit.CircleKt
+
